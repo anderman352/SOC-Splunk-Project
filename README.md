@@ -1,4 +1,4 @@
-SOC Splunk Project
+SOC Splunk Project - 
 This project is a hands-on Security Operations Center (SOC) lab built with Splunk to simulate real-world blue team monitoring and detection. It demonstrates SIEM setup, Sysmon-based log collection, SOC detections, automation scripts, and dashboards.
 
 📌 Features
